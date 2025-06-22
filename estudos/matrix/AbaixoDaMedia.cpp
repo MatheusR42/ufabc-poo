@@ -1,5 +1,6 @@
 #include <iostream>
 #include <iomanip>
+
 double mean(double * v, int size) {
     double sum = 0;
     for (int i = 0; i < size; i++) {
